@@ -1,29 +1,27 @@
-# JupyterLite Demo
+*If you loaded this file from JupyterLite, then close this file and go load the file
+`representation-demo.ipynb`. This link should take you directly there (without closing 
+README.md):*
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+https://jmshea.github.io/digicom-jupyter/lab/index.html?path=representation-demo.ipynb
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+# Digital Communications JupyterLite Site
 
-## ✨ Try it in your browser ✨
+If you are seeing this on the GitHub page, then read on.
 
-➡️ **https://jupyterlite.github.io/demo**
+If you do not have Jupyter, Python, etc., installed on your computer, you can use these 
+Jupyter notebooks directly in your browser. Load JupyterLite by clicking on the following link:
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+➡️ **https://jmshea.github.io/digicom-jupyter**
+
+Then double click on notebooks in the left-hand file palette to load them into JupyterLite.
+As with Jupyter, use shift-Enter to run cells.
+
+Please let me know if you use this and if you find it useful or have any problems.
 
 ## Requirements
 
-JupyterLite is being tested against modern web browsers:
-
+You may need a relatively recent browser, such as 
 - Firefox 90+
 - Chromium 89+
+- Safari 15+
 
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
