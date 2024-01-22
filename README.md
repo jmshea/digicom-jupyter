@@ -2,7 +2,6 @@
 `representation-demo.ipynb`. This link should take you directly there (without closing 
 README.md):*
 
-https://jmshea.github.io/digicom-jupyter/lab/index.html?path=representation-demo.ipynb
 
 # Digital Communications JupyterLite Site
 
@@ -15,6 +14,12 @@ Jupyter notebooks directly in your browser. Load JupyterLite by clicking on the 
 
 Then double click on notebooks in the left-hand file palette to load them into JupyterLite.
 As with Jupyter, use shift-Enter to run cells.
+
+## Direct Links
+
+* [Homework 1, Part 1: representation-demo.ipynb](https://jmshea.github.io/digicom-jupyter/lab/index.html?path=representation-demo.ipynb)
+* [Homework 1, Part 2: gram-schmidt.ipynb](https://jmshea.github.io/digicom-jupyter/lab/index.html?path=gram-schmidt.ipynb)
+* [Lecture 6: sigspace-example.ipynb](https://jmshea.github.io/digicom-jupyter/lab/index.html?path=sigspace-example.ipynb)
 
 Please let me know if you use this and if you find it useful or have any problems.
 
