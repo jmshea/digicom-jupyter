@@ -20,6 +20,8 @@ As with Jupyter, use shift-Enter to run cells.
 * [Homework 1, Part 1: representation-demo.ipynb](https://jmshea.github.io/digicom-jupyter/lab/index.html?path=representation-demo.ipynb)
 * [Homework 1, Part 2: gram-schmidt.ipynb](https://jmshea.github.io/digicom-jupyter/lab/index.html?path=gram-schmidt.ipynb)
 * [Lecture 6: sigspace-example.ipynb](https://jmshea.github.io/digicom-jupyter/lab/index.html?path=sigspace-example.ipynb)
+* [Lecture 11: M-ary Orthogonal Modulation Symbol Probs](https://jmshea.github.io/digicom-jupyter/lab/index.html?path=lecture11.ipynb)
+
 
 Please let me know if you use this and if you find it useful or have any problems.
 
